@@ -5,7 +5,7 @@ public class GetBigDecimal {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Hola mundo que mas");
+		System.out.println("Hola mundo que mas sdta");
 	}
 
 }
