@@ -1,11 +1,18 @@
 package utilidadesJava.getdecimal;
 
+import java.math.BigDecimal;
+import java.text.DecimalFormat;
+
 public class GetBigDecimal {
 	
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Hola mundo que mas sdta");
-	}
+		BigDecimal valorBigDecimal = new BigDecimal(120000);
+		
+		DecimalFormat decimalFormat = new DecimalFormat();
+		
+		
+		}
 
 }
